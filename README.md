@@ -17,4 +17,4 @@
   </a>
 </p>
 
-Me chamo <a href="https://lucasbresolin.github.io">Lucas Bresolin</a>. Moro no Rio Grande do Sul. Possuo mais de 5 anos de experiência na área de Graphic Design com materiais online e offline e atualmente estou migrando de área. Adquirindo conhecimento diariamente em desenvolvimento **Front-end**, com foco na construção de interfaces **responsivas**, escrevendo **código limpo** e **eficiente**. Apaixonado por tecnologia, design, games e música.
+Me chamo <a href="https://lucasbresolin.github.io">Lucas Bresolin</a>. Moro no Rio Grande do Sul. Possuo mais de **5 anos de experiência** na área de **Graphic Design** com materiais **Online / Offline** e atualmente estou migrando de área. Adquirindo conhecimento diariamente em desenvolvimento **Front-end**, com foco na construção de interfaces **responsivas**, escrevendo **código limpo** e **eficiente**. Apaixonado por tecnologia, design, games e música.
