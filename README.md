@@ -1,4 +1,4 @@
-<img align="center" src="https://i.imgur.com/GSpcUlh.jpg" />
+<img align="center" src="https://i.imgur.com/jXIE1sF.jpg" />
 <br/>
 <p align="center">
   <a href="mailto:lucasbresolin@live.com">
