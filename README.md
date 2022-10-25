@@ -1,8 +1,6 @@
-# Hey, Devs!
-
-<img align="right" height="200px" src="https://cdn.dribbble.com/users/2459439/screenshots/5314041/gamerpeople1_3.gif" />
-
-<p align="left">
+<img align="center" src="https://i.imgur.com/GSpcUlh.jpg" />
+<br/>
+<p align="center">
   <a href="mailto:lucasbresolin@live.com">
     <img src="https://img.shields.io/badge/-lucasbresolin@live.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasbresolin@live.com" />
   </a>
@@ -17,4 +15,5 @@
   </a>
 </p>
 
-Me chamo <a href="https://lucasbresolin.github.io">Lucas Bresolin</a>. Moro no Rio Grande do Sul. Possuo mais de **5 anos de experiência** na área de **Graphic Design** com materiais **Online / Offline** e atualmente estou migrando de área. Adquirindo conhecimento diariamente em desenvolvimento **Front-end**, com foco na construção de interfaces **responsivas**, escrevendo **código limpo** e **eficiente**. Apaixonado por tecnologia, design, games e música.
+<p align="center"> Tenho 27 anos. Sou do Rio Grande do Sul. Possuo mais de <strong>5 anos de experiência</strong> na área de <strong>Design Gráfico</strong> com materiais <strong>Online / Offline</strong>. Estou em processo de transição de carreira. Adquirindo conhecimento diariamente em desenvolvimento <strong>Front-end</strong>, com foco na construção de interfaces <strong>responsivas</strong>, escrevendo <strong>código limpo</strong> e <strong>eficiente</strong>. Apaixonado por tecnologia, design, games e música. </p>
+<p align="center"> Quero me tornar uma referência nesta minha nova área de atuação. </p>
