@@ -2,13 +2,13 @@
 <br/>
 <p align="center">
   <a href="mailto:lucasbresolin@live.com">
-    <img src="https://img.shields.io/badge/-lucasbresolin@live.com-000000?style=flat-square&logo=Gmail&logoColor=00E3FD&link=mailto:lucasbresolin@live.com" />
+    <img src="https://img.shields.io/badge/-lucasbresolin@live.com-000000?style=flat-square&logo=Gmail&logoColor=22272E&link=mailto:lucasbresolin@live.com" />
   </a>
   <a href="https://www.linkedin.com/in/lucasbresolin">
-    <img src="https://img.shields.io/badge/-Lucas%20Bresolin-000000?style=flat-square&logo=Linkedin&logoColor=00E3FD&link=https://www.linkedin.com/in/lucasbresolin" />
+    <img src="https://img.shields.io/badge/-Lucas%20Bresolin-000000?style=flat-square&logo=Linkedin&logoColor=22272E&link=https://www.linkedin.com/in/lucasbresolin" />
   </a>
   <a>
-    <img src="https://img.shields.io/badge/Lucas Bresolin%238277-000000?style=flat-square&logo=Discord&logoColor=00E3FD" />
+    <img src="https://img.shields.io/badge/Lucas Bresolin%238277-000000?style=flat-square&logo=Discord&logoColor=22272E" />
   </a>
   <a href="https://github.com/lucasbresolin/?tab=follow">
     <img src="https://img.shields.io/github/followers/lucasbresolin?label=Follow&style=social" />
